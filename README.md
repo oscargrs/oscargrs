@@ -1,3 +1,11 @@
+<img 
+    align="center" 
+    alt="SPTECH"
+    title="SPTECH" 
+    width="1920px"
+    src="https://github.com/fernandacaramico/fernandacaramico/raw/main/capa.png" 
+/>
+
 ## Olá! Me chamo Oscar Silva.
 ## Sou formado Técnico em Informática pela ETEC Jorge Street e atualmente sou estudante no primeiro semestre de Análise e Desenvolvimento de Sistemas na São Paulo Tech School!
 
