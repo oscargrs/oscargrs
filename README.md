@@ -1,4 +1,5 @@
-## Olá eu sou o Oscar Silva, sou formado Técnico em Informática pela ETEC Jorge Street e atualmente sou estudante no primeiro semestre de Análise e Desenvolvimento de Sistemas na São Paulo Tech School!
+## Olá! Me chamo Oscar Silva.
+## Sou formado Técnico em Informática pela ETEC Jorge Street e atualmente sou estudante no primeiro semestre de Análise e Desenvolvimento de Sistemas na São Paulo Tech School!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Oscar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
