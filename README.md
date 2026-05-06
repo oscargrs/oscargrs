@@ -9,7 +9,7 @@
 ## Olá! Me chamo Oscar Silva.
 ## Sou formado Técnico em Informática pela ETEC Jorge Street e atualmente sou estudante no primeiro semestre de Análise e Desenvolvimento de Sistemas na São Paulo Tech School!
 
-<div style="display: flex"><br>
+<div style="display: flex; flex-direction: row"><br>
   <img align="center" alt="Oscar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Oscar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oscar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
